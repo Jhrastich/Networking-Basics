@@ -4,7 +4,7 @@
 Jake Hrastich
 
 ## Summary
-This tutorial will walk you through the fundamental concepts of computer networking. It covers topics such as IP addresses, subnets, DNS, and how data is transmitted across networks. By the end of the tutorial, you 
+This tutorial will walk you through the fundamental concepts of computer networking. It covers topics such as IP addresses, subnets, networking devices, The OSI Model, DNS, and other networking protocols. By the end of the tutorial, you 
 will have a clearer understanding of how networks function and the essential terminology involved.
 
 ## Target Audience
