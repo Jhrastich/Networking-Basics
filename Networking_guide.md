@@ -13,7 +13,7 @@ A network is a system of connected computers and end-devices that communicate wi
 - **Network Cables**: Used for wired connections; common types include Ethernet (Cat5, Cat6).
 
 ## 4. - **OSI Model (Open Systems Interconnection Model)**: Is used to break down complex process of network communication into seven separate layers. 
-##Layer 1 (physical) 
+## Layer 1 (physical) 
 - Uses the hardware, such as cables, and switches to transmit raw data.
 ## Layer 2 (Data Link)
 - Relays how data packets are transferred between devices on a network.
