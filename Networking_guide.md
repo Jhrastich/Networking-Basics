@@ -1,7 +1,7 @@
 # Networking Basics
 
 ## 1. Introduction
-Networking is a crucial part of modern technology, connecting computers and devices to share data and resources. Understanding the basics of networking is essential for anyone working in IT, as it forms the foundation for more advanced topics such
+Networking is an important part of modern technology, connecting computers and devices to share data and resources. Understanding the basics of networking is essential for anyone working in IT, as it forms the foundation for more advanced topics such
 as network security, troubleshooting, and system administration.
 
 ## 2. What is a Network?
